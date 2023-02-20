@@ -17,4 +17,3 @@ class Solution:
             return True
 
         return n - sum(map(union, edges))
-
